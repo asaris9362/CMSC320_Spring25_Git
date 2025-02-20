@@ -9,3 +9,7 @@ Answer: Data science could be applied to sports to track athlete statistics
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge combines the histories of two branches, rebase puts one branch at the beginning of another
+
+Q4: What are you looking forward to this semester?
+
+Answer: Visiting my friends in Madrid on Spring Break
